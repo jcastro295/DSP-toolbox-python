@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 from scipy.signal import freqz
 
 
-data_folder = 'data'
+data_folder = '../data'
 
 # Loading ECG data: The first column is the time vector, 
 # and the second column is the voltage vector of the signal.

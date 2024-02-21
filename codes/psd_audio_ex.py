@@ -21,7 +21,7 @@ from scipy.signal.windows import boxcar
 import scipy.io.wavfile as wavfile
 
 
-data_folder = 'data'
+data_folder = '../data'
 
 # Read the audio file
 fs, x = wavfile.read(os.path.join(data_folder, 'flute.wav'))

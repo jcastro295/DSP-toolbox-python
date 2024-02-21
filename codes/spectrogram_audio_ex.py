@@ -18,7 +18,7 @@ from pydub import AudioSegment
 from scipy.signal import resample_poly, spectrogram
 
 
-data_folder = 'data'
+data_folder = '../data'
 
 # Read the audio file
 sound = AudioSegment.from_wav(os.path.join(data_folder, 'chirping_sound.wav'))

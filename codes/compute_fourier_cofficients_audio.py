@@ -17,7 +17,7 @@ from scipy.signal import resample_poly
 from tools.compute_complex_fourier_coef import compute_complex_fourier_coef
 
 
-data_folder = 'data'
+data_folder = '../data'
 
 # Load audio file
 fs, y = wavfile.read(os.path.join(data_folder, 'ahh_sound.wav'))

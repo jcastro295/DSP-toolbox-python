@@ -15,7 +15,7 @@ import matplotlib.pyplot as plt
 from tools.quant_bits import quant_bits
 
 
-data_folder = 'data'
+data_folder = '../data'
 
 # Parameters
 N = 32  # bit-depth
