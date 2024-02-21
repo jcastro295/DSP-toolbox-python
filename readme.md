@@ -1,6 +1,6 @@
-# Digital Signal Processing Toolbox
+# Digital Signal Processing Toolbox (python)
 
-This repository contains codes I developed for teaching an undergraduate course on digital signal processing.
+This repository contains python codes I developed for teaching an undergraduate course on digital signal processing.
 
 The repository includes codes for:
 
@@ -36,4 +36,4 @@ pip install -r requirements.txt
 
 For the pydub package (used for audio reading), ensure you have previously installed ffmpeg or libav on your computer. For further details, visit their [documentation](https://github.com/jiaaro/pydub#dependencies).
 
-I have also written a Matlab version for every code listed here. Please free to check those out [here!]().
+I have also written a Matlab version for every code listed here. Please free to check those out [here!](https://github.com/jcastro295/DSP-toolbox-matlab).
