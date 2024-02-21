@@ -1,0 +1,12 @@
+.DS_Store
+
+*.wav
+*.mp3
+*.csv
+*.xls
+
+*/*.wav
+*/*.wav
+*/*.mp3
+*/*.csv
+*/*.xls
