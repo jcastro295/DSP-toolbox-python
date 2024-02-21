@@ -1,0 +1,8 @@
+matplotlib
+numpy
+scipy
+sounddevice
+sympy
+pandas
+openpyxl
+pydub
